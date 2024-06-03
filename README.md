@@ -7,9 +7,9 @@
 * [책임 연쇄](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/ChainOfResponsibility)
 * [중재자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Mediator)
 * [인터프리터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Interpreter)
-* 반복자
-* 메멘토
-* 전략
+* [반복자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Iterator)
+* [메멘토](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Memento)
+* [전략](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Strategy)
 * 템플릿 메소드
 * 방문자
 
