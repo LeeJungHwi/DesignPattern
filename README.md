@@ -1,21 +1,21 @@
 # DesignPattern
 ## I、GoF 디자인 패턴
 ### 행동 패턴
-* [커맨드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Command)
-* [상태](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/State)
-* [옵저버](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Observer)
-* [책임 연쇄](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/ChainOfResponsibility)
-* [중재자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Mediator)
-* [인터프리터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Interpreter)
-* [반복자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Iterator)
-* [메멘토](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Memento)
-* [전략](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/Strategy)
-* 템플릿 메소드
-* 방문자
+* [커맨드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Command)
+* [상태](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/State)
+* [옵저버](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Observer)
+* [책임 연쇄](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/ChainOfResponsibility)
+* [중재자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Mediator)
+* [인터프리터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Interpreter)
+* [반복자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Iterator)
+* [메멘토](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Memento)
+* [전략](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Strategy)
+* [템플릿 메소드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/TemplateMethod)
+* [방문자](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Visitor)
 
 
 ### 구조 패턴
-* 어댑터
+* [어댑터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Adapter)
 * 브릿지
 * 컴포지트
 * 데코레이터
