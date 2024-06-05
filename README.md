@@ -16,10 +16,10 @@
 
 ### 구조 패턴
 * [어댑터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Adapter)
-* 브릿지
-* 컴포지트
-* 데코레이터
-* 퍼사드
+* [브릿지](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Bridge)
+* [컴포지트](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Composite)
+* [데코레이터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Decorator)
+* [퍼사드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Facade)
 * 플라이웨이트
 * 프록시
 
