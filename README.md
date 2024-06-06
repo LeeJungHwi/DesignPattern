@@ -20,16 +20,16 @@
 * [컴포지트](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Composite)
 * [데코레이터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Decorator)
 * [퍼사드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Facade)
-* 플라이웨이트
-* 프록시
+* [플라이웨이트](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Flyweight)
+* [프록시](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/StructuralPattern/Proxy)
 
 
 ### 생성 패턴
-* 프로토타입
-* 싱글톤
-* 추상 팩토리
-* 빌더
-* 팩토리 메소드
+* [프로토타입](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/CreationalPattern/Prototype)
+* [싱글톤](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/CreationalPattern/Singleton)
+* [추상 팩토리](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/CreationalPattern/AbstractFactory)
+* [빌더](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/CreationalPattern/Builder)
+* [팩토리 메소드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/CreationalPattern/FactoryMethod)
 
 <br> 
 
