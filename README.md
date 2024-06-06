@@ -34,8 +34,8 @@
 <br> 
 
 ## II、게임 프로그래밍 패턴
-* 하위클래스 샌드박스
-* 타입 객체
+* [하위클래스 샌드박스](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/SubclassSandbox)
+* [타입 객체](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/TypeObject)
 * 컴포넌트
 * 이벤트 큐
 * 게임 루프
