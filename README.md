@@ -36,10 +36,10 @@
 ## II、게임 프로그래밍 패턴
 * [하위클래스 샌드박스](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/SubclassSandbox)
 * [타입 객체](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/TypeObject)
-* 컴포넌트
-* 이벤트 큐
-* 게임 루프
-* 서비스 로케이터
+* [컴포넌트](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/Component)
+* [이벤트 큐](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/EventQueue)
+* [게임 루프](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/GameLoop)
+* [서비스 로케이터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/ServiceLocator)
 * 데이터 지역성
 * 더티 플래그
 * 오브젝트 풀
