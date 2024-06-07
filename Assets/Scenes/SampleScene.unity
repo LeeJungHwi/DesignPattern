@@ -203,6 +203,73 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d4b494cdcc533b4bbd9a2c63de55ed1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &243739991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 243739992}
+  - component: {fileID: 243739993}
+  - component: {fileID: 243739994}
+  m_Layer: 0
+  m_Name: EventQueue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &243739992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 243739991}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1287013803}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &243739993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 243739991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c4bed8f72bc5474c98e6f8410cc3ba6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &243739994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 243739991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc3cb5c531c78749ae9bf46d9b4e7c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log: 1
+  preMessageTime: 0
+  highPriorityColor: {r: 1, g: 0, b: 0, a: 1}
+  normalPriorityColor: {r: 0, g: 0, b: 0, a: 1}
+  lowPriorityColor: {r: 1, g: 1, b: 1, a: 1}
+  highPriorityFont: 1
+  normalPriorityFont: 0
+  lowPriorityFont: 0
+  messagePos: {x: 25, y: 25}
+  messageSize: {x: 200, y: 15}
 --- !u!1 &335526189
 GameObject:
   m_ObjectHideFlags: 0
@@ -899,6 +966,7 @@ Transform:
   - {fileID: 335526190}
   - {fileID: 1839009440}
   - {fileID: 695325498}
+  - {fileID: 243739992}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1318401394
