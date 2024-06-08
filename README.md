@@ -40,9 +40,9 @@
 * [이벤트 큐](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/EventQueue)
 * [게임 루프](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/GameLoop)
 * [서비스 로케이터](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/ServiceLocator)
-* 데이터 지역성
-* 더티 플래그
-* 오브젝트 풀
+* [데이터 지역성](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/DataLocality)
+* [더티 플래그](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/DirtyFlag)
+* [오브젝트 풀](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/GamePattern/ObjectPool)
 <br>
 
 ## 레퍼런스
