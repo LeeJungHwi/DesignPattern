@@ -1,4 +1,5 @@
-# DesignPattern
+⭐️ 디자인 패턴 공부 (with. Unity)
+<br>
 ## I、GoF 디자인 패턴
 ### 행동 패턴
 * [커맨드](https://github.com/LeeJungHwi/DesignPattern/tree/main/Assets/Scripts/BehavioralPattern/Command)
